@@ -1,0 +1,7 @@
+{
+	"delay_zombie": 15,
+	"delay_zombie_ratio": 0.20,
+	"min_players": 2,
+	"human_health": 150,
+	"money_ratio": 0.33
+}
