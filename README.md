@@ -1,7 +1,7 @@
 # ReBiohazard
 
 ## About what it is
-ReBiohazard is a modification for the game Counter-Strike taken from the original idea of ​​the modification Zomboe Biohazard. This project uses modern problem solving techniques, more interactions with the game library, and fixes problems with the original idea.
+ReBiohazard is a modification for the game Counter-Strike taken from the original idea of ​​the modification Zombie Biohazard. This project uses modern problem solving techniques, more interactions with the game library, and fixes problems with the original idea.
 
 ## Goals of the project
 * Use modern methods for solving tasks.
